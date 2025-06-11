@@ -1,5 +1,5 @@
 export const config = {
-  domainSource: "https://www.fana.club", // Your WeWeb app preview link
+  domainSource: "https://7cbe5063-b845-44d8-a79d-37f07db28edd.weweb-preview.io/", // Your WeWeb app preview link
   patterns: [
       {
           pattern: "/influencer/[^/]+",
